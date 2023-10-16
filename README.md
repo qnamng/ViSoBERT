@@ -1,4 +1,4 @@
-# <a name="introduction"></a> PLM4ViSMT: A Pre-Trained Language Model for Vietnamese Social Media Text Processing (EMNLP 2023 - Main)
+# <a name="introduction"></a> ViSoBERT: A Pre-Trained Language Model for Vietnamese Social Media Text Processing (EMNLP 2023 - Main)
 
 ViSoBERT is the state-of-the-art language model for Vietnamese social media tasks:
 
